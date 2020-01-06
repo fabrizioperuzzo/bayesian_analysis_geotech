@@ -1,3 +1,5 @@
-# bayesian_analysis_geotech
+## bayesian_analysis_geotech
+
 Bayesian Analysis for geotechnical parameters
-This is my first change
+
+Modern programming languages made easier the use of statistical analysis of large amount of data. The Bayesian analysis is helpful to update knowledge of something. Is particularly indicated when we have to deal with classification. This is why it is helpful when appled to geotechnical material. The instrument we are going to use is pandas packages under python code for what concern the data manipulation. The sklearn package and in particular SNN classification will be used in order to verify the omogeneity of the selected sample with respect to the other material obtained from other sample. Successively we are going to use the package pcm3 for the bayesian analysis An online database by means of Mysql open source will keep storage of the soil material and will be helpful for future analyis. The criteria of storing data will be also the geografical area linked to climate and geological period, local atmosfere (lake, sea, desertic) and load history. This will be helpful to assimilate similar soil.
