@@ -2,4 +2,13 @@
 
 Bayesian Analysis for geotechnical parameters
 
-Modern programming languages made easier the use of statistical analysis of large amount of data. The Bayesian analysis is helpful to update knowledge of something. Is particularly indicated when we have to deal with classification. This is why it is helpful when appled to geotechnical material. The instrument we are going to use is pandas packages under python code for what concern the data manipulation. The sklearn package and in particular SNN classification will be used in order to verify the omogeneity of the selected sample with respect to the other material obtained from other sample. Successively we are going to use the package pcm3 for the bayesian analysis An online database by means of Mysql open source will keep storage of the soil material and will be helpful for future analyis. The criteria of storing data will be also the geografical area linked to climate and geological period, local atmosfere (lake, sea, desertic) and load history. This will be helpful to assimilate similar soil.
+
+Modern engineering problems are facing the growing demand to deals with huge amount of data and their intrinsic uncertainties. This exigence has led us to unprece-dented insights and developments in the machine learning field. To date, the healthcare and financial sectors has been the precursor of practical application of machine learning approaches. In geotechnics and rock mechanics, the materials we deal with are characterized by a large amount of data, various levels of uncertainty and often a prior knowledge, therefore they lend themselves well to this type of analy-sis. This article aims to present Bayesian methods and machine learning algorithms applied for geotechnical characterization of soil and rocks. Once the test sample has been properly filtered and classified, we will demonstrate the potentiality of multivari-ate Bayesian linear regression as a main tool for dealing with multivariate data and uncertainty. In addition to frequentist approaches, where the response is assumed to be sampled from a distribution, in Bayesian models also the regression parameters are similarly based on a prior distribution. In the second part of the article a practical case of geotechnical supervised, regression machine learning problem will be presented and solved by means of Python scripts. The main purpose of this article is not to briefly rewrite the principles of machine learning, as the bibliography in this field is broad and complete, but rather to spread its potential in the practice and entice the geotechnical reader to use them.
+
+![Image description](01.gif)
+
+![Image description](02.gif)
+
+![Image description](03.gif)
+
+![Image description](04.gif)
